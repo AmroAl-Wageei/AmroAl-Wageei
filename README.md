@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AmroAl-Wageei
 - 👀 I’m interested in Web Development and Quality Assurance 
 - 🌱 I’m currently learning in Orange Coding Academy As a Full-Stack Web Developer
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Shandaqamro@gmail.com
 
 <!---
