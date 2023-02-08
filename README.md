@@ -17,3 +17,9 @@ You can click the Preview link to take a look at your changes.
 		<img src="https://readme-typing-svg.herokuapp.com?lines=internship+in+Orange+Coding+Academy;Front+End+Web+Developer;&center=true&width=380&height=45">
 </a>
 </p>
+
+<div align="center">
+
+![AmroAl-Wageei's Profile Views](https://komarev.com/ghpvc/?username=rahuljha4171&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
+
+</div> 
