@@ -114,7 +114,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AmroAl-Wageei&show_icons=true&count_private=true&theme=react"/>
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmroAl-Wageei=react"/>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmroAl-Wageei&theme=react"/>
   
  </p>
  <br>
