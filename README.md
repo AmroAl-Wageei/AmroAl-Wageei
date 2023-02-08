@@ -87,6 +87,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3 align="center"> Technical  Tools :</h3>
+
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
@@ -101,13 +102,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
-  <a href="https://www.browserstack.org/" target="_blank">
-    <img src="https://img.shields.io/badge/browserstack-183A61.svg?style=for-the-badge&logo=browserstack&logoColor=white"
-      alt="browserstack"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
+
+	
 </p>
 
 -----------------------------------------------------------------------------------------
