@@ -123,7 +123,11 @@ You can click the Preview link to take a look at your changes.
 <img src="https://activity-graph.herokuapp.com/graph?username=AmroAl-Wageei&theme=react-dark&hide_border=false">
 <p>
   
+<p align='center'>
+<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljha4171&theme=react">
+<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rahuljha4171&layuout=compact&theme=react">
 
+<p>
 	
 	
 -----------------------------------------------------------------------------------------	
