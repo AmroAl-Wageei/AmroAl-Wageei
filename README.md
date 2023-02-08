@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 	
 <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+    <img src="https://img.shields.io/badge/wordpress%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
       alt="wordpress"/>
   </a>
 	
