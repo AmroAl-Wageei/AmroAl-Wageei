@@ -28,23 +28,6 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<p align="center">
-	
-
-	
-
-	
- 
-	
- <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/php-764ABC.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
-  </a> 
-	
- <a href="https://laravel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/laravel-0769AD.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> 
-  </a>
-	
-</p>
 
 
   
@@ -165,6 +148,19 @@ i am also an  I’m interested in Web Development and Quality Assurance.
   </a>
   
   </p>
+  
+  
+<p align="left">
+	
+ <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/php-764ABC.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
+  </a> 
+	
+ <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/laravel-0769AD.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> 
+  </a>
+	
+</p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
