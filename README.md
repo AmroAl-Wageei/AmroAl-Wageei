@@ -63,3 +63,20 @@ You can click the Preview link to take a look at your changes.
   </a>
 	
 </p>
+
+
+<p align="center">
+	
+<a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+	
+	
+<a href="https://wordpress.com/" target="_blank">
+    <img src="https://img.shields.io/badge/wordpress%20-%2338B2AC.svg?style=for-the-badge&logo=wordpress&logoColor=white"
+      alt="wordpress"/>
+  </a>
+  
+  </p>
+
