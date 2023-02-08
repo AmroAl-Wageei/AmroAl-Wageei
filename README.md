@@ -112,7 +112,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### My Statistics 📈 
+## My Statistics 📈 
 <br/>
 
 <p align="center">
@@ -121,10 +121,6 @@ You can click the Preview link to take a look at your changes.
   
  </p>
  <br>
- 
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=AmroAl-Wageei&theme=react-dark&hide_border=false">
-<p>
   
 	
 	
