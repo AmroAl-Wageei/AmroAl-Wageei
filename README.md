@@ -50,7 +50,6 @@ You can click the Preview link to take a look at your changes.
       alt="javascript"/> 
   </a>	
 	
-
 	
 <a href="https://wordpress.com/" target="_blank">
     <img src="https://img.shields.io/badge/wordpress%20-%2338B2AC.svg?style=for-the-badge&logo=wordpress&logoColor=white"
@@ -66,8 +65,10 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/php-764ABC.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
   </a> 
 	
- <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="laravel"/> 
+
+	
+ <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/laravel-0769AD.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> 
   </a>
 	
 </p>
