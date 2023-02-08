@@ -87,8 +87,8 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-
-<h3 align="center"> Technical  Tools :</h3>
+## Technical  Tools 📈 
+<br/>
 
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -108,7 +108,6 @@ You can click the Preview link to take a look at your changes.
 	
 </p>
 
------------------------------------------------------------------------------------------
 
 
 
