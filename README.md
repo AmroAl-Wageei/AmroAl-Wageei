@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
------------------------------------------------------------------------------------------
 
 <h3 align="center"> Frontend & Backend </h3>
 
@@ -110,7 +109,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## My Statistics 📈 
+### My Statistics 📈 
 <br/>
 
 <p align="center">
