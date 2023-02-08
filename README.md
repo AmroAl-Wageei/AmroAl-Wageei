@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-![AmroAl-Wageei's Profile Views](https://komarev.com/ghpvc/?username=AmroAl-Wageei&label=PROFILE+VIEWS&style=for-the-badge&color=brightblue)
+![AmroAl-Wageei's Profile Views](https://komarev.com/ghpvc/?username=AmroAl-Wageei&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 </div> 
