@@ -25,7 +25,8 @@ You can click the Preview link to take a look at your changes.
 </div> 
 
 
-
+<br/>
+<br/>
 
 <h3 align="center"> Frontend & Backend </h3>
 
@@ -65,6 +66,8 @@ You can click the Preview link to take a look at your changes.
 	
 </p>
 
+<br/>
+<br/>
 
 <p align="center">
 	
@@ -81,8 +84,8 @@ You can click the Preview link to take a look at your changes.
   
   </p>
 
------------------------------------------------------------------------------------------
-
+<br/>
+<br/>
 
 
 <h3 align="center"> Technical  Tools :</h3>
