@@ -46,19 +46,7 @@ You can click the Preview link to take a look at your changes.
 	
 </p>
 
-<p align="center">
-	
-<a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
-  </a>
-	
-<a href="https://wordpress.com/" target="_blank">
-    <img src="https://img.shields.io/badge/wordpress%20-%2338B2AC.svg?style=for-the-badge&logo=wordpress&logoColor=white"
-      alt="wordpress"/>
-  </a>
-  
-  </p>
+
   
   <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -163,6 +151,20 @@ i am also an  I’m interested in Web Development and Quality Assurance.
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
+  
+  <p align="center">
+	
+<a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+	
+<a href="https://wordpress.com/" target="_blank">
+    <img src="https://img.shields.io/badge/wordpress%20-%2338B2AC.svg?style=for-the-badge&logo=wordpress&logoColor=white"
+      alt="wordpress"/>
+  </a>
+  
+  </p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
