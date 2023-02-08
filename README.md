@@ -102,6 +102,8 @@ i am also an  I’m interested in Web Development and Quality Assurance.
 
 <br/>
 
+
+**My Statistics:**  
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 	<img src="https://readme-typing-svg.herokuapp.com?lines=My+Statistics;My+Statistics;&center=true&width=380&height=45">
