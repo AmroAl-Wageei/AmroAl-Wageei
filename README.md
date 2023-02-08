@@ -9,40 +9,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi 👋, Amro Al-Wageei </h1>
-
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=internship+in+Orange+Coding+Academy;Front+End+Web+Developer;&center=true&width=380&height=45">
-</a>
-</p>
-
-<div align="center">
-
-![AmroAl-Wageei's Profile Views](https://komarev.com/ghpvc/?username=AmroAl-Wageei&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
-
-</div> 
-
-
-
-<br/>
-
-
-
-  
-
-
-<br/>
-
-  
-	
-	
 
 
 
 
---------------------------------------------------------------
+ 
 
 ###  Hi, I’m @AmroAl-Wageei 👋
 <a href="https://instagram.com/shandaqamro7">
