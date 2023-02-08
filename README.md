@@ -64,9 +64,6 @@ You can click the Preview link to take a look at your changes.
 	
 </p>
 
-<br/>
-<br/>
-
 <p align="center">
 	
 <a href="https://getbootstrap.com" target="_blank">
