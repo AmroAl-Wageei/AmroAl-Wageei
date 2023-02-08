@@ -123,13 +123,6 @@ i am also an  I’m interested in Web Development and Quality Assurance.
  <br>
 
 
-
-
-
-
-
-<hr>
-
 <p align="center">
    <a href="https://github.com/Bouaskaoun">
    <img src="https://readme-typing-svg.herokuapp.com?lines=Connect+with+me;Connect+with+me;&center=true&width=380&height=45">
