@@ -34,31 +34,19 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>
-<br/>
 
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=My+Statistics;My+Statistics;&center=true&width=380&height=45">
-</a>
-</p>
-<br/>
-
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AmroAl-Wageei&show_icons=true&count_private=true&theme=react"/>
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmroAl-Wageei&theme=react"/>
-  
- </p>
- <br>
   
 	
 	
 
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Connect+with+me;Connect+with+me;&center=true&width=380&height=45">
+   <a href="https://github.com/Bouaskaoun">
+   <img src="https://readme-typing-svg.herokuapp.com?lines=Connect+with+me;Connect+with+me;&center=true&width=380&height=45">
 </a>
 </p>
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/amro-al-wageei-69a597160/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -169,16 +157,28 @@ i am also an  I’m interested in Web Development and Quality Assurance.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
 
-```text
-TypeScript   24 hrs 16 mins  ████████████████████████▒   97.31 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-CSS          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+
+
+
+
+<br/>
+
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=My+Statistics;My+Statistics;&center=true&width=380&height=45">
+</a>
+</p>
+<br/>
+
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AmroAl-Wageei&show_icons=true&count_private=true&theme=react"/>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmroAl-Wageei&theme=react"/>
+  
+ </p>
+ <br>
+
+
 ```
 
 <!--END_SECTION:waka-->
