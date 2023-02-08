@@ -7,3 +7,13 @@
 AmroAl-Wageei/AmroAl-Wageei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<h1 align="center">Hi 👋, Amro Al-Wageei </h1>
+
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=internship+in+Orange+Coding+Academy;Front+End+Web+Developer;Freelancer;Tech+Content+Writer;Always+Student&center=true&width=380&height=45">
+</a>
+</p>
