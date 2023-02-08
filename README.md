@@ -138,7 +138,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Amro Al-Wageei Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://github.com/AmroAl-Wageei">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.png" />
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/amro-al-wageei-69a597160/">
