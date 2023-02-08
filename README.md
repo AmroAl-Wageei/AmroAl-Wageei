@@ -152,7 +152,7 @@ i am also an  I’m interested in Web Development and Quality Assurance.
       alt="react"/> 
   </a>
   
-  <p align="center">
+  <p align="left">
 	
 <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
