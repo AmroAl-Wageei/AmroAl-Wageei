@@ -102,7 +102,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
   <a href="https://www.browserstack.org/" target="_blank">
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=browserstack&logoColor=white"
+    <img src="https://img.shields.io/badge/browserstack-183A61.svg?style=for-the-badge&logo=browserstack&logoColor=white"
       alt="browserstack"/>
   </a>
   <a href="https://www.linux.org/" target="_blank"> 
