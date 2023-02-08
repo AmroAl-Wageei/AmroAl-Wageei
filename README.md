@@ -108,3 +108,17 @@ You can click the Preview link to take a look at your changes.
 
 -----------------------------------------------------------------------------------------
 
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/amro-al-wageei-69a597160/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  <a href="https://github.com/AmroAl-Wageei" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?color=494949&style=for-the-badge&logo=Github&logoColor=white" alt="Github" style="margin-bottom: 5px;"/>
+</a>
+
+<a href="https://instagram.com/shandaqamro7" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</p>
