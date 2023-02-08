@@ -16,11 +16,11 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Amro Al-Wageei Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://github.com/AmroAl-Wageei">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Amro Al-Wageei Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/amro-al-wageei-69a597160/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Amro Al-Wageei LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AmroAl-Wageei)
