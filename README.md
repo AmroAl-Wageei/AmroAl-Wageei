@@ -29,7 +29,11 @@ You can click the Preview link to take a look at your changes.
 
 hi, i'm Amro Al - Wageei , I’m currently learning in Orange Coding Academy As a Full-Stack Web Developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
-i am also an  I’m interested in Web Development and Quality Assurance.
+i am also an  I’m interested in Web Development and Quality Assurance.                  <p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Full+Stack+Web+Developer;Freelancer;Tech+Content+Writer;Always+Student&center=true&width=380&height=45">
+</a>
+</p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
