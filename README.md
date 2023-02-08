@@ -45,8 +45,6 @@ You can click the Preview link to take a look at your changes.
       alt="javascript"/> 
   </a>	
 	
-	
-	
  <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
@@ -55,8 +53,6 @@ You can click the Preview link to take a look at your changes.
  <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/php-764ABC.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
   </a> 
-	
-
 	
  <a href="https://laravel.com/" target="_blank">
     <img src="https://img.shields.io/badge/laravel-0769AD.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> 
@@ -71,21 +67,14 @@ You can click the Preview link to take a look at your changes.
       alt="bootstrap"/>
   </a>
 	
-	
 <a href="https://wordpress.com/" target="_blank">
     <img src="https://img.shields.io/badge/wordpress%20-%2338B2AC.svg?style=for-the-badge&logo=wordpress&logoColor=white"
       alt="wordpress"/>
   </a>
   
   </p>
-
-<br/>
-<br/>
-
-## Technical  Tools 
-<br/>
-
-<p align="center">
+  
+  <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
@@ -103,6 +92,8 @@ You can click the Preview link to take a look at your changes.
 	
 </p>
 
+<br/>
+<br/>
 
 
 
