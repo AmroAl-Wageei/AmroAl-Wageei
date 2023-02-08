@@ -33,7 +33,7 @@ i am also an  I’m interested in Web Development and Quality Assurance.
 
 
 <a href="https://github.com/Bouaskaoun">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Web+Developer;Back-End+Web+Developer;Quality+assurance+engineer&width=380&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Web+Developer;Back-End+Web+Developer;Quality+assurance+Engineer&width=380&height=45">
 </a>
 
 
