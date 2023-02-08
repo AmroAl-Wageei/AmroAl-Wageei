@@ -109,6 +109,29 @@ You can click the Preview link to take a look at your changes.
 -----------------------------------------------------------------------------------------
 
 
+
+## My Statistics 📈 
+<br/>
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rahuljha4171&show_icons=true&count_private=true&theme=react"/>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuljha4171&theme=react"/>
+  
+ </p>
+ <br>
+ 
+<p align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=rahuljha4171&theme=react-dark&hide_border=false">
+<p>
+  
+<p align='center'>
+<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuljha4171&theme=react">
+<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rahuljha4171&layuout=compact&theme=react">
+
+<p>
+	
+	
+-----------------------------------------------------------------------------------------	
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/amro-al-wageei-69a597160/" target="_blank">
