@@ -31,8 +31,9 @@ hi, i'm Amro Al - Wageei , I’m currently learning in Orange Coding Academy As 
 
 i am also an  I’m interested in Web Development and Quality Assurance.                 
 
+
 <a href="https://github.com/Bouaskaoun">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Full+Stack+Web+Developer;Freelancer;Tech+Content+Writer;Always+Student&center=true&width=380&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Web+Developer;Back+End+Web+Developer;Quality+assurance+engineer=true&width=380&height=45">
 </a>
 
 
