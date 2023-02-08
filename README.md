@@ -27,8 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 <br/>
-
-<h3 align="center"> Frontend & Backend </h3>
+## Frontend & Backend 
 
 <p align="center">
 	
@@ -87,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-## Technical  Tools 📈 
+## Technical  Tools 
 <br/>
 
 <p align="center">
