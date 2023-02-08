@@ -111,9 +111,13 @@ You can click the Preview link to take a look at your changes.
   
 	
 	
------------------------------------------------------------------------------------------	
 
-<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Connect+with+me;Connect+with+me;&center=true&width=380&height=45">
+</a>
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/amro-al-wageei-69a597160/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
