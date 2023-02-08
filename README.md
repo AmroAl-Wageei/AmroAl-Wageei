@@ -124,11 +124,10 @@ You can click the Preview link to take a look at your changes.
  
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=AmroAl-Wageei&theme=react-dark&hide_border=false">
+<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmroAl-Wageei&theme=react">
+
 <p>
   
-<p align='center'>
-<img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmroAl-Wageei&theme=react">
-</p>
 	
 	
 -----------------------------------------------------------------------------------------	
