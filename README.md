@@ -154,7 +154,8 @@ i am also an  I’m interested in Web Development and Quality Assurance.
 
 
 
---------------------------------------------
+
+<hr>
 
 <p align="center">
    <a href="https://github.com/Bouaskaoun">
