@@ -78,7 +78,7 @@ i am also an  I’m interested in Web Development and Quality Assurance.
   
 <p align="left">
 
- <a href="https://redux.js.org" target="_blank"> 
+ <a href="https://php.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/php-764ABC.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
   </a> 
 
