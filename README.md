@@ -39,7 +39,7 @@ i am also an  I’m interested in Web Development and Quality Assurance.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any feedback work? do reach, [email](mailto:shandaqamro@gmail.com) :)
+- 💼 any feedback work? do reach, [email](mailto:amro.wageei@outlook.com) :)
 - 💬 give me an advice, i am happy to Listening to you;
 
 **languages and tools:**  
