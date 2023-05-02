@@ -27,9 +27,9 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-hi, i'm Amro Al - Wageei , I’m currently learning in Orange Coding Academy As a Full-Stack Web Developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+hi, i'm Amro Al - Wageei , As a passionate #front-end-developer, I constantly strive to improve my skills and stay up-to-date with the latest trends and technologies. I love bringing ideas to life through clean and elegant interfaces, and I am always up for a new challenge. With a strong work ethic and a commitment to continuous improvement, I am driven to succeed and make a positive impact on any team I work with.
 
-i am also an  I’m interested in Web Development and Quality Assurance.                 
+In addition to my expertise in front-end development, I also have experience in backend technologies such as PHP and Laravel, allowing me to create full-stack applications with seamless functionality.               
 
 
 <a href="https://github.com/Bouaskaoun">
